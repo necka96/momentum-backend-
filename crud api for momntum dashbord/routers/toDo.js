@@ -1,5 +1,5 @@
 import express from "express";
-import ToDo from "../models/toDo.js";
+import ToDo from "../mongodb/models/toDoPost.js";
 
 const router = express.Router();
 
